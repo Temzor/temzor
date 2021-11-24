@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![image](https://user-images.githubusercontent.com/46348969/143200303-c862b530-9fe7-4155-8382-eadf9487f57c.png)
+Hello, I'm Dmitrii Kapustin!
 
 <!--
 **Temzor/temzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
