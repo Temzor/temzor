@@ -1,7 +1,7 @@
 ### Hello, I'm Dmitrii Kapustin!
 And I Java developer 8)
 
-### Tools:
+## Tools:
     Maven
     jUnit
     Git
