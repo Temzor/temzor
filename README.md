@@ -1,4 +1,7 @@
 ### Hello, I'm Dmitrii Kapustin!
+And I Java developer 8)
+
+https://github-readme-stats.vercel.app/api?username=Temzor&show_icons=true&count_private=true
 
 <!--
 **Temzor/temzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
