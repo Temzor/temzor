@@ -1,7 +1,19 @@
 ### Hello, I'm Dmitrii Kapustin!
 And I Java developer 8)
 
-https://github-readme-stats.vercel.app/api?username=Temzor&show_icons=true&count_private=true
+### Tools:
+    Maven
+    jUnit
+    Git
+    IntelliJ Idea
+    Сheckstyle
+    JaCoCo
+    Travic CI
+    Bash commands tools
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=Temzor&show_icons=true&count_private=true">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=Temzor&show_icons=true&count_private=true"/></a>
 
 <!--
 **Temzor/temzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
