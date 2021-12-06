@@ -2,7 +2,7 @@
 And I Java developer 8)
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="1800" src="https://github.com/Temzor/temzor/blob/main/Ashampoo_Snap_6%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F%202021%20%D0%B3._18h04m53s_019_.png"></code>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github.com/Temzor/temzor/blob/main/Ashampoo_Snap_6%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F%202021%20%D0%B3._18h04m53s_019_.png" alt="Anurag's github stats" /></a> 
 
 #### Tools: 
     Maven
