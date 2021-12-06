@@ -1,8 +1,8 @@
 ### Hello, I'm Dmitrii Kapustin!
 And I Java developer 8)
 
-#### My stack is here: (click please)
-<code><a href="https://github.com/Temzor/temzor/blob/main/Ashampoo_Snap_6%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F%202021%20%D0%B3._18h04m53s_019_.png"><img height="280" align="center" src="https://github.com/Temzor/temzor/blob/main/Ashampoo_Snap_6%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F%202021%20%D0%B3._18h04m53s_019_.png" alt="My stack" /></a> </code>
+#### My stack is here: (click to thumbnail please)
+<code><a href="https://github.com/Temzor/temzor/blob/main/Ashampoo_Snap_6%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F%202021%20%D0%B3._18h04m53s_019_.png"><img height="180" align="center" src="https://github.com/Temzor/temzor/blob/main/Ashampoo_Snap_6%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F%202021%20%D0%B3._18h04m53s_019_.png" alt="My stack" /></a> </code>
 
 #### Tools: 
     Maven
