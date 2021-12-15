@@ -16,7 +16,7 @@ And I Java developer 8)
 
 <p align='center'>
 <a href="https://github-readme-stats.vercel.app/api?username=Temzor&show_icons=true&count_private=true">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=temzor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=temzor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dmitrii's github stats" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temzor&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 <!--
