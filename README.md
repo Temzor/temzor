@@ -11,7 +11,7 @@ And I Java developer 8)
     IntelliJ Idea
     Сheckstyle
     JaCoCo
-    Travic CI
+    Travis-CI
     Bash commands tools
 
 <p align='center'>
