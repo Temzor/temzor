@@ -5,7 +5,7 @@ And I Java developer 8)
 <code><a href="https://drive.google.com/file/d/13GDBKY7Im5Dpq6iiU9z5KOe0x7R3chBV/view?usp=sharing"><img height="180" align="center" src="https://github.com/Temzor/temzor/blob/main/Ashampoo_Snap_6%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F%202021%20%D0%B3._18h04m53s_019_.png" alt="My stack" /></a> </code>
 
 #### Tools: 
-    Java 8/11;
+    Java 8/17;
     Spring(Boot, Data, Security);
     Hibernate(classic ORM);
     Maven;
@@ -20,7 +20,9 @@ And I Java developer 8)
     Travis-CI;
     Bash commands tools;
     HTML, CSS;
-    Jira, Confluence.
+    Jira, Confluence;
+    RabbitMQ;
+    Jenkins.
   
 
 <p align='center'>
