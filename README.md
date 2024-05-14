@@ -1,4 +1,4 @@
-### Hello, I'm Dmitrii Kapustin!
+### Hello, I'm Dmitrii!
 And I Java developer 8)
 
 #### My stack is here: (click to thumbnail please)
